@@ -64,9 +64,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Amit-10101/Amit-10101/output/snake.svg" alt="Snake animation" />
-
-###
